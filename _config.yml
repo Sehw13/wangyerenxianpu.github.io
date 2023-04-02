@@ -1,9 +1,9 @@
 # Site settings
-title: WYRXP Blog
-SEOTitle: WYR的博客 | WYR Blog
+title: 王野人献曝
+SEOTitle: 你我不兼容
 header-img: img/DP247545.jpg
 email: 13161782688smy@gmail.com
-description: "A simpler time."
+description: "naruhodo."
 keyword: "WYR"
 url: "https://wangyerenxianpu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,7 +12,7 @@ github_repo: "" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "红拂夜奔"
-sidebar-avatar: /img/DP247543.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/DSC01797.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
